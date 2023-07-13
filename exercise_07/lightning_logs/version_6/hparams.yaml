@@ -1,0 +1,12 @@
+batch_size: 64
+learning_rate: 0.001
+loading_method: Image
+n_hidden_1: 1024
+n_hidden_2: 512
+n_hidden_3: 256
+n_hidden_4: 128
+n_hidden_5: 64
+n_hidden_6: 32
+n_hidden_7: 16
+num_workers: 2
+weight_decay: 0.001
